@@ -1,1 +1,1 @@
-# kettku.github.io
+# Simple shopping list with JavaScript
