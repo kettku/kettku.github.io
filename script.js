@@ -4,8 +4,6 @@ var ul = document.querySelector("ul");
 var li = document.getElementsByTagName("li");
 
 
-
-
 function inputLength() {
 	return input.value.length;
 }
